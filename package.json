@@ -1,6 +1,6 @@
 {
   "name": "last-sunday",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Get the last sunday (not the recent sunday of the week)",
   "license": "MIT",
   "repository": "AshikNesin/last-sunday",
