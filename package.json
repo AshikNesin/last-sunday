@@ -1,0 +1,23 @@
+{
+  "name": "last-sunday",
+  "version": "0.0.0",
+  "description": "Get the last sunday (not the recent sunday of the week)",
+  "license": "MIT",
+  "repository": "AshikNesin/last-sunday",
+  "author": {
+    "name": "Ashik Nesin",
+    "email": "mail@ashiknesin.com",
+    "url": "ashiknesin.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
